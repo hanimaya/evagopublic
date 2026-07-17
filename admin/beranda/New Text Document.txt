@@ -1,0 +1,10 @@
+executive 	GM	 			tetap 	 	= 2
+executive 	night manager			tetap	 	= 2
+HRD		HRD MANAGER			Tetap		= 2
+HRD		Supervisor			Tetap		= 1
+
+executive 	GM	 			kontrak 	= 3
+executive 	night manager			kontrak	 	= 1
+HRD		HRD MANAGER			kontrak		= 2
+HRD		Supervisor			kontrak		= 1
+
